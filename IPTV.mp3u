@@ -1,5 +1,5 @@
 ############### TV Lokal #######################################
-
+#EXTM3U
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://i.postimg.cc/VLzP59tn/20220927-125602.png",RCTI
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
