@@ -1,9 +1,13 @@
 ############### TV Nasional #######################################
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL",GTV HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157578
+#EXTINF:-1 tvg-id="GTV.id" group-title="MNC GRUP" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png",GTV
+https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="NASIONAL",INews
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157579
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL",MNC TV
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 ##http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165054
