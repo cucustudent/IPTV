@@ -38,8 +38,6 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="TV Lokal",TRANS 7
 https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="TV Lokal",TRANS 7 HD
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/162502
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Lokal",ANTV HD
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="TV Lokal",Dunia Lain
