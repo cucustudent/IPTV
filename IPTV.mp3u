@@ -61,7 +61,8 @@ http://210.210.155.37/qwr9ew/s/s10/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="TV Lokal", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="TV Lokal", TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="TV Lokal", RODJA TV
 http://210.210.155.37/qwr9ew/s/s14/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="TV Lokal", DAAI TV
