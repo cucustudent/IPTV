@@ -14,24 +14,13 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="TV Lokal" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png",INews
 https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/118.jpg" group-title="TV Lokal",TVRI SPORT HD
 http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="tvri nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU" group-title="TV Lokal",TVRI
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Lokal",SCTV 
-https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
 ##http://210.210.155.37/qwr9ew/s/s03/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Lokal",SCTV HD
-http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="indosiar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png" group-title="TV Lokal",INDOSIAR
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="trans tv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="TV Lokal",TRANS TV HD
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="trans7" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/7/79/Trans_7_2013.svg/1280px-Trans_7_2013.svg.png" group-title="TV Lokal",TRANS 7
-https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
-##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/512px-Antv_logo.svg.png" group-title="TV Lokal",ANTV HD
 http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="TV Lokal",Dunia Lain
@@ -57,4 +46,24 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3XG1FXh/20230518-221343.png" group-title="TV Lokal" ,Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/112.jpg" group-title="TV Lokal", JAK TV
+http://210.210.155.37/x6bnqe/s/s46/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="TV Lokal", NET
+http://210.210.155.37/uq2663/h/h06/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="TV Lokal", SCTV
+http://210.210.155.37/qwr9ew/s/s03/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg" group-title="TV Lokal", KOMPAS TV
+http://210.210.155.37/qwr9ew/s/s104/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg" group-title="TV Lokal", BERITA SATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg" group-title="TV Lokal", ELSHINTA TV
+http://210.210.155.37/qwr9ew/s/s10/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="TV Lokal", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="TV Lokal", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="TV Lokal", RODJA TV
+http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="TV Lokal", DAAI TV
+http://210.210.155.37/qwr9ew/s/s13/index.m3u8
 ###########################################################################################################################
