@@ -20,12 +20,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
 http://210.210.155.37/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-id="TVRI.id" tvg-name="tvri nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU" group-title="TV Lokal",TVRI
 http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/02.m3u8
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="TV Lokal",MOJI 1
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="TV Lokal",MOJI 2
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298550
-#EXTINF:-1 tvg-id="OChannel.id" tvg-name="o channel" tvg-logo="https://i.postimg.cc/JhPD0mHR/20230518-215608.png" group-title="TV Lokal",MOJI 3
-https://github.com/thefirefox12537/streams/raw/master/moji_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="TV Lokal",SCTV 
 https://github.com/thefirefox12537/streams/raw/master/esceteve_2.m3u8
 ##http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -46,14 +40,10 @@ http://xtv.ooo:8080/88876776555/87677666654/350938
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="TV Lokal",RTV
 http://210.210.155.37/dr9445/h/h10/index.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="TV Lokal",Mentari TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298546
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="TV Lokal",VTV HD
 https://beetv.my.id/x/oxygen-vtv-gojokkk.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rmMjX8Xc/20230518-221612.png" group-title="TV Lokal",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="TV Lokal",MNC News
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/165058
 #EXTINF:-1 tvg name tv one "group-title="TV Lokal",TVOne
 http://210.210.155.37/qwr9ew/s/s105/index.m3u8
 ##http://210.210.155.35/session/8ada75ba-2f85-11eb-9529-b82a72d63267/qwr9ew/s/s105/01.m3u8
