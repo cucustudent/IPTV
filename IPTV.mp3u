@@ -52,4 +52,9 @@ https://github.com/thefirefox12537/streams/raw/master/transpitu_playback.m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg" group-title="TV Lokal", RODJA TV
 http://210.210.155.37/qwr9ew/s/s14/index.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sCXJVZS/balitv.jpg" group-title="TV Lokal",Bali Tv 
+https://anevia115.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 ###########################################################################################################################
