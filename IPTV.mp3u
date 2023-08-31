@@ -313,15 +313,15 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gausahcopybesokilang.satvb.workers.dev/
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/ptf1smwr07adice/print-207781632-picsay.jpg" group-title="Movies & Hiburan", Bioskop Indonesia
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/ptf1smwr07adice/print-207781632-picsay.jpg" group-title="Chanel Film", Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/ptf1smwr07adice/print-207781632-picsay.jpg" group-title="Movies & Hiburan", GEM
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/ptf1smwr07adice/print-207781632-picsay.jpg" group-title="Chanel Film", GEM
 http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="Movies & Hiburan" tvg-logo="https://dl.dropbox.com/s/ptf1smwr07adice/print-207781632-picsay.jpg",Lifetime
+#EXTINF:-1 group-title="Chanel Film" tvg-logo="https://dl.dropbox.com/s/ptf1smwr07adice/print-207781632-picsay.jpg",Lifetime
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
 
